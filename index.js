@@ -4,6 +4,6 @@ const app = express();
 
 app.use(cors());
 
-app.listen(9090,()=>{
-    console.log("listining 9090");
+app.listen(8090,()=>{
+    console.log("listining 8090");
 })
